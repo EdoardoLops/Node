@@ -1,5 +1,8 @@
 {
   "devDependencies": {
     "@types/node": "^22.13.5"
+  },
+  "dependencies": {
+    "pg-promise": "^11.10.2"
   }
 }
